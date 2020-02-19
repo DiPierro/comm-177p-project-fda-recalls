@@ -1,6 +1,6 @@
 # COMM 177P Project FDA Recalls
 
-TK
+A simple scraper.
 
 ## Setup
 
