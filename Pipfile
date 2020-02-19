@@ -6,3 +6,9 @@ name = 'pypi'
 [packages]
 invoke = "*"
 gitpython = "*"
+requests = "*"
+bs4 = "*"
+pathlib = "*"
+json = "*"
+path = "*"
+lxml = "*"
